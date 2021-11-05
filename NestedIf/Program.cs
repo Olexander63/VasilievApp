@@ -2,11 +2,10 @@
 
 namespace NestedIf
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-
             //Текстовая переменная;
             string txt;
             //  Отображение сообщения:
@@ -18,23 +17,18 @@ namespace NestedIf
             {
                 //Если в строке больше десяти символов:
                 if (txt.Length > 10)
-                {
                     //Отображение сообщения:
                     Console.WriteLine("ого. как много букв!");
-                }
                 //Если в строке не большедесяти символов:
                 else
-                {
                     //Отображение сообщения:
                     Console.WriteLine("Ого, как мало букв!");
-                }
             }
             //Если введена пустая строка:
             else
             {
                 Console.WriteLine("Жаль, что не ввели текст!");
             }
-
         }
     }
 }
