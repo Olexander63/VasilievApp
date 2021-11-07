@@ -1,9 +1,67 @@
-﻿namespace MethodReload
+﻿using System;
+
+namespace MethodReload
 {
-    internal class Program
+    
+    //Описание класса:
+    class MyClass
     {
-        public static void Main(string[] args)
+        //Закрытое целочисленное поле:
+        private int number;
+        //Закрытое символьное поле:
+        private char symbol;
+
+        // Открытый метод для отображения значения полей:
+        public void show()
         {
+            Console.WriteLine("Поля обьекта: "+number+ " и " + symbol);
+        }
+        //Открытый метод для присваивания значений полям.
+        //Версия с двумя аргументами:
+        public void set(int n, char s)
+        {
+            number = n; //значение целочисленного поля
+            symbol = s; //Значение символьного поля
+        }
+        
+        // Открытый метод для присвивания значений полям
+        //Версия с одинм целочисленнім аргументом:
+        public void set(int n)
+        {
+            number = n; //Значение целочисленного поля
+            symbol = 'B'; // Значение символьного поля
+        }
+        // открытый мето для присваивания значений поля.
+        //Версия без аргументов
+        public void set()
+        {
+            //Вызов версии метода с двумя аргументами:
+            set(100,'A');
+        }
+        
+
+    }
+    class MethodsDemo
+    {   
+        // Главный метод
+        public static void Main()
+        {
+            //Создание обьекта:
+            MyClass obj = new MyClass();
+            //Присваивание значений полям:
+            obj.set();
+            //отображение знчений полей:
+            obj.show();
+            //Присваивание значений полям:
+            obj.set(200);
+            //отображение знчений полей:
+            obj.show();
+
+            //Присваивание значений полям:
+            obj.set(300,'C');
+            //Отображение значений полей:
+            obj.show();
+
         }
     }
 }
