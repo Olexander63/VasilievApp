@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOverloading", "MoreOver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingOperators", "OverloadingOperators\OverloadingOperators.csproj", "{F01C85A5-05BF-4630-997C-1FCB72E9CA80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingCompareOperators", "OverloadingCompareOperators\OverloadingCompareOperators.csproj", "{471E0FA7-7975-4E15-A824-B8392AEFC20A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{F01C85A5-05BF-4630-997C-1FCB72E9CA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F01C85A5-05BF-4630-997C-1FCB72E9CA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F01C85A5-05BF-4630-997C-1FCB72E9CA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471E0FA7-7975-4E15-A824-B8392AEFC20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471E0FA7-7975-4E15-A824-B8392AEFC20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471E0FA7-7975-4E15-A824-B8392AEFC20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471E0FA7-7975-4E15-A824-B8392AEFC20A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
