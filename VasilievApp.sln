@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTwoDimIndexer", "Using
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inherit", "Inherit\Inherit.csproj", "{ABA3EA52-4866-4B4C-8D9F-D927E63519CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateAndProtected", "PrivateAndProtected\PrivateAndProtected.csproj", "{B7EF494E-EE7A-426B-A672-21ED9476417F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +461,10 @@ Global
 		{ABA3EA52-4866-4B4C-8D9F-D927E63519CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABA3EA52-4866-4B4C-8D9F-D927E63519CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABA3EA52-4866-4B4C-8D9F-D927E63519CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
