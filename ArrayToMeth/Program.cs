@@ -4,7 +4,7 @@ namespace ArrayToMeth
 {
     public class Program
     {
-        //Метод для щаполенния массива случайнымы числа:
+        //Метод для заполенния массива случайнымы числа:
         static void fillRand(int[] nums)
         {
             //обект для  генерирования случайных чисел:
