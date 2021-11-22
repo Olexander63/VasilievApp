@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inherit", "Inherit\Inherit.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateAndProtected", "PrivateAndProtected\PrivateAndProtected.csproj", "{B7EF494E-EE7A-426B-A672-21ED9476417F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritAndConstr", "InheritAndConstr\InheritAndConstr.csproj", "{4EBA1BA9-BB4F-42D2-BF1C-0105461BDAB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7EF494E-EE7A-426B-A672-21ED9476417F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBA1BA9-BB4F-42D2-BF1C-0105461BDAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBA1BA9-BB4F-42D2-BF1C-0105461BDAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBA1BA9-BB4F-42D2-BF1C-0105461BDAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBA1BA9-BB4F-42D2-BF1C-0105461BDAB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
