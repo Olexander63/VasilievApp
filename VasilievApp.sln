@@ -169,6 +169,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingAndOverriding", "Hidi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadAndOverride", "OverloadAndOverride\OverloadAndOverride.csproj", "{F800421D-2A4C-419D-9CB6-A4F3F840DA0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritPropIndexer", "InheritPropIndexer\InheritPropIndexer.csproj", "{272407E4-EEC9-4C18-9C4A-E8B040E936EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -507,6 +509,10 @@ Global
 		{F800421D-2A4C-419D-9CB6-A4F3F840DA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F800421D-2A4C-419D-9CB6-A4F3F840DA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F800421D-2A4C-419D-9CB6-A4F3F840DA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272407E4-EEC9-4C18-9C4A-E8B040E936EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272407E4-EEC9-4C18-9C4A-E8B040E936EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272407E4-EEC9-4C18-9C4A-E8B040E936EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272407E4-EEC9-4C18-9C4A-E8B040E936EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
