@@ -61,7 +61,7 @@ namespace BaseObjVar
             MyClass B = new MyClass(A);
             A.code = 0;
             A.symb = 'O';
-            Console.WriteLine("Испоьзуем переменную B: ");
+            Console.WriteLine("Используем переменную B: ");
             B.show();
             B.display();
         }
