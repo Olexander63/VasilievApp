@@ -18,7 +18,7 @@ namespace MoreInterface
 
         public void show()
         {
-            Console.WriteLine("Свойство number"+ number);
+            Console.WriteLine("Свойство number="+ number);
         }
     }
 

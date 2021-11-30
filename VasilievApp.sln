@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreInterface", "MoreInterface\MoreInterface.csproj", "{1123CB00-BAC3-4FFB-B8BA-801DCC821E70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceVar", "InterfaceVar\InterfaceVar.csproj", "{CDD56073-08A7-43BB-B238-691CDB23A2BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{1123CB00-BAC3-4FFB-B8BA-801DCC821E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1123CB00-BAC3-4FFB-B8BA-801DCC821E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1123CB00-BAC3-4FFB-B8BA-801DCC821E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD56073-08A7-43BB-B238-691CDB23A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD56073-08A7-43BB-B238-691CDB23A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD56073-08A7-43BB-B238-691CDB23A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD56073-08A7-43BB-B238-691CDB23A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
