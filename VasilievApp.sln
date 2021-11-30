@@ -173,6 +173,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritPropIndexer", "Inher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{1FC02327-DCF1-476C-A9FF-3752E470716C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstrPropAndIndex", "AbstrPropAndIndex\AbstrPropAndIndex.csproj", "{F3C4087B-0C65-45C0-AF3A-20632EFDFEC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +521,10 @@ Global
 		{1FC02327-DCF1-476C-A9FF-3752E470716C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FC02327-DCF1-476C-A9FF-3752E470716C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FC02327-DCF1-476C-A9FF-3752E470716C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C4087B-0C65-45C0-AF3A-20632EFDFEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C4087B-0C65-45C0-AF3A-20632EFDFEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C4087B-0C65-45C0-AF3A-20632EFDFEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C4087B-0C65-45C0-AF3A-20632EFDFEC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
