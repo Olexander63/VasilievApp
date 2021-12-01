@@ -201,6 +201,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymMethAsArg", "AnonymMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymAsResult", "AnonymAsResult\AnonymAsResult.csproj", "{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreAnonymAsResult", "MoreAnonymAsResult\MoreAnonymAsResult.csproj", "{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -603,6 +605,10 @@ Global
 		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
