@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMeth", "AnonymousM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymMethAsArg", "AnonymMethAsArg\AnonymMethAsArg.csproj", "{3FC8604C-8949-4170-9D9F-31D31AF070F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymAsResult", "AnonymAsResult\AnonymAsResult.csproj", "{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{3FC8604C-8949-4170-9D9F-31D31AF070F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC8604C-8949-4170-9D9F-31D31AF070F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC8604C-8949-4170-9D9F-31D31AF070F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEACDAB7-9735-4C3C-9286-4B7C0C3F1F3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
