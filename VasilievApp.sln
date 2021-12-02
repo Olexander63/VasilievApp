@@ -203,6 +203,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymAsResult", "AnonymAsR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreAnonymAsResult", "MoreAnonymAsResult\MoreAnonymAsResult.csproj", "{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lamda", "Lamda\Lamda.csproj", "{D6878166-A5FF-4DFF-8B51-3377F2098352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -609,6 +611,10 @@ Global
 		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E4654E8-F5B3-46CF-BE01-7C2B4A3BA1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6878166-A5FF-4DFF-8B51-3377F2098352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6878166-A5FF-4DFF-8B51-3377F2098352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6878166-A5FF-4DFF-8B51-3377F2098352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6878166-A5FF-4DFF-8B51-3377F2098352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
