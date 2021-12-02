@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLambda", "MoreLambda\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{646EB495-F3FD-451E-9672-12F4F94F8CBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{8FA0EB66-E1CC-4022-B846-8509657DDB75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -645,6 +647,10 @@ Global
 		{646EB495-F3FD-451E-9672-12F4F94F8CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646EB495-F3FD-451E-9672-12F4F94F8CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646EB495-F3FD-451E-9672-12F4F94F8CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
