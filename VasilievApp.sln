@@ -217,6 +217,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{8FA0EB66-E1CC-4022-B846-8509657DDB75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{5ED5F1EB-8EAE-4CD7-9ADF-40C53E289F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{551FA2AF-AC59-42FF-89C1-409CDB89F4F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -651,6 +655,14 @@ Global
 		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA0EB66-E1CC-4022-B846-8509657DDB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED5F1EB-8EAE-4CD7-9ADF-40C53E289F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED5F1EB-8EAE-4CD7-9ADF-40C53E289F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED5F1EB-8EAE-4CD7-9ADF-40C53E289F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED5F1EB-8EAE-4CD7-9ADF-40C53E289F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551FA2AF-AC59-42FF-89C1-409CDB89F4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551FA2AF-AC59-42FF-89C1-409CDB89F4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551FA2AF-AC59-42FF-89C1-409CDB89F4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551FA2AF-AC59-42FF-89C1-409CDB89F4F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
