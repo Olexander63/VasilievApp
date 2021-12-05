@@ -33,7 +33,6 @@ namespace Pointers
             Console.WriteLine("Значеине типа byte: {0}", *q);
             Console.WriteLine("Значеине типа char: \'{0}\'", *s);
             Console.WriteLine("Значеине переменной  n={0}", n);
-            Console.ReadKey();
 
         }
     }

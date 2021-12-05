@@ -245,6 +245,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pointers", "Pointers\Pointe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniArray", "MiniArray\MiniArray.csproj", "{516F9C97-60D5-4656-86E9-AB0A514A0BFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsWithPointers", "OperationsWithPointers\OperationsWithPointers.csproj", "{1F3A9E3C-9631-4A7E-B007-7BA0256482E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -735,6 +737,10 @@ Global
 		{516F9C97-60D5-4656-86E9-AB0A514A0BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{516F9C97-60D5-4656-86E9-AB0A514A0BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{516F9C97-60D5-4656-86E9-AB0A514A0BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3A9E3C-9631-4A7E-B007-7BA0256482E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3A9E3C-9631-4A7E-B007-7BA0256482E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3A9E3C-9631-4A7E-B007-7BA0256482E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3A9E3C-9631-4A7E-B007-7BA0256482E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
