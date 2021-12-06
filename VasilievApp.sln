@@ -267,6 +267,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreExceptions", "MoreExcep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedTry", "NestedTry\NestedTry.csproj", "{AE8034D4-A6CF-4F5F-BA1B-CFC6AA5C429B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throw", "Throw\Throw.csproj", "{37862970-ED0B-4895-8FD0-6E2212726489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -801,6 +803,10 @@ Global
 		{AE8034D4-A6CF-4F5F-BA1B-CFC6AA5C429B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE8034D4-A6CF-4F5F-BA1B-CFC6AA5C429B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE8034D4-A6CF-4F5F-BA1B-CFC6AA5C429B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37862970-ED0B-4895-8FD0-6E2212726489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37862970-ED0B-4895-8FD0-6E2212726489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37862970-ED0B-4895-8FD0-6E2212726489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37862970-ED0B-4895-8FD0-6E2212726489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
