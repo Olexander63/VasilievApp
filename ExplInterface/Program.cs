@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExplInterface
+namespace ExplInteface
 {
     abstract class Base
     {
