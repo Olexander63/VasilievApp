@@ -275,6 +275,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checked", "Checked\Checked.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equation", "Equation\Equation.csproj", "{6236AA4A-9EEA-47AF-B320-38E4014829F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSymbol", "FindSymbol\FindSymbol.csproj", "{928A1CEF-CAC8-459F-A838-9FBF484C9E7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -825,6 +827,10 @@ Global
 		{6236AA4A-9EEA-47AF-B320-38E4014829F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6236AA4A-9EEA-47AF-B320-38E4014829F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6236AA4A-9EEA-47AF-B320-38E4014829F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928A1CEF-CAC8-459F-A838-9FBF484C9E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928A1CEF-CAC8-459F-A838-9FBF484C9E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928A1CEF-CAC8-459F-A838-9FBF484C9E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928A1CEF-CAC8-459F-A838-9FBF484C9E7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
