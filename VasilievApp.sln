@@ -311,6 +311,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuchMoreGenMeth", "MuchMore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenMethOverload", "GenMethOverload\GenMethOverload.csproj", "{F9AB0B19-02C8-451E-8C76-74D4D0436328}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhithGenMethod", "WhithGenMethod\WhithGenMethod.csproj", "{0EB27BA5-15B4-43F4-9CA0-84D00B4AE03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenClass", "GenClass\GenClass.csproj", "{AF91A725-8431-49F0-BBE6-8A12485DB93F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -933,6 +937,14 @@ Global
 		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB27BA5-15B4-43F4-9CA0-84D00B4AE03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB27BA5-15B4-43F4-9CA0-84D00B4AE03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB27BA5-15B4-43F4-9CA0-84D00B4AE03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB27BA5-15B4-43F4-9CA0-84D00B4AE03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
