@@ -315,6 +315,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhithGenMethod", "WhithGenM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenClass", "GenClass\GenClass.csproj", "{AF91A725-8431-49F0-BBE6-8A12485DB93F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenStruct", "GenStruct\GenStruct.csproj", "{6F6584E8-DF01-4972-B3B3-D5B9428B60C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenInterface", "GenInterface\GenInterface.csproj", "{A352CD5A-8202-4A8C-AF1A-F975DE865746}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -945,6 +949,14 @@ Global
 		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF91A725-8431-49F0-BBE6-8A12485DB93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6584E8-DF01-4972-B3B3-D5B9428B60C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6584E8-DF01-4972-B3B3-D5B9428B60C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6584E8-DF01-4972-B3B3-D5B9428B60C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6584E8-DF01-4972-B3B3-D5B9428B60C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
