@@ -299,6 +299,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillingArray", "FillingArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadArray", "ThreadArray\ThreadArray.csproj", "{ED08E1CD-DD32-43F4-97F3-51829CBF798D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadInThread", "ThreadInThread\ThreadInThread.csproj", "{55B4D5F9-C303-4FBB-97D2-717E2E9F41DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -897,6 +899,10 @@ Global
 		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B4D5F9-C303-4FBB-97D2-717E2E9F41DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B4D5F9-C303-4FBB-97D2-717E2E9F41DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B4D5F9-C303-4FBB-97D2-717E2E9F41DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B4D5F9-C303-4FBB-97D2-717E2E9F41DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
