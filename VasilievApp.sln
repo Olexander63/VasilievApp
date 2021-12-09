@@ -297,6 +297,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lock", "lock\lock.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillingArray", "FillingArray\FillingArray.csproj", "{22732CAC-6EB4-4DFC-8D7A-A4D4908509B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadArray", "ThreadArray\ThreadArray.csproj", "{ED08E1CD-DD32-43F4-97F3-51829CBF798D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -891,6 +893,10 @@ Global
 		{22732CAC-6EB4-4DFC-8D7A-A4D4908509B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22732CAC-6EB4-4DFC-8D7A-A4D4908509B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22732CAC-6EB4-4DFC-8D7A-A4D4908509B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED08E1CD-DD32-43F4-97F3-51829CBF798D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
