@@ -309,6 +309,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreGenMeth", "MoreGenMeth\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuchMoreGenMeth", "MuchMoreGenMeth\MuchMoreGenMeth.csproj", "{0F4F0284-0ADB-4B45-B7C5-854634108282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenMethOverload", "GenMethOverload\GenMethOverload.csproj", "{F9AB0B19-02C8-451E-8C76-74D4D0436328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -927,6 +929,10 @@ Global
 		{0F4F0284-0ADB-4B45-B7C5-854634108282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F4F0284-0ADB-4B45-B7C5-854634108282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F4F0284-0ADB-4B45-B7C5-854634108282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AB0B19-02C8-451E-8C76-74D4D0436328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
