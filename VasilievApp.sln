@@ -303,6 +303,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadInThread", "ThreadInT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCalc", "SumCalc\SumCalc.csproj", "{956AC128-7909-44D0-BB0C-70DA327D45ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenStatMeth", "GenStatMeth\GenStatMeth.csproj", "{BD0ABDC7-85E6-4D0B-90E7-A66988792F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -909,6 +911,10 @@ Global
 		{956AC128-7909-44D0-BB0C-70DA327D45ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{956AC128-7909-44D0-BB0C-70DA327D45ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{956AC128-7909-44D0-BB0C-70DA327D45ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0ABDC7-85E6-4D0B-90E7-A66988792F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0ABDC7-85E6-4D0B-90E7-A66988792F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0ABDC7-85E6-4D0B-90E7-A66988792F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0ABDC7-85E6-4D0B-90E7-A66988792F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
