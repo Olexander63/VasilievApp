@@ -319,6 +319,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenStruct", "GenStruct\GenS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenInterface", "GenInterface\GenInterface.csproj", "{A352CD5A-8202-4A8C-AF1A-F975DE865746}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenDelagate", "GenDelagate\GenDelagate.csproj", "{B2CECC13-CCB2-448E-8925-BD8212DFAD75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -957,6 +959,10 @@ Global
 		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A352CD5A-8202-4A8C-AF1A-F975DE865746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CECC13-CCB2-448E-8925-BD8212DFAD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CECC13-CCB2-448E-8925-BD8212DFAD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CECC13-CCB2-448E-8925-BD8212DFAD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CECC13-CCB2-448E-8925-BD8212DFAD75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
