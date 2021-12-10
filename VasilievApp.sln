@@ -323,6 +323,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenDelagate", "GenDelagate\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenRest", "GenRest\GenRest.csproj", "{7E0505E5-7FFE-42CE-8832-0F1F49CAB1EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreGenRest", "MoreGenRest\MoreGenRest.csproj", "{7096F185-8496-462A-98F4-A391B8BF1595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiGenRest", "MultiGenRest\MultiGenRest.csproj", "{03012320-7DDE-44BB-B7FC-2BA9ED704774}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -969,6 +973,14 @@ Global
 		{7E0505E5-7FFE-42CE-8832-0F1F49CAB1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E0505E5-7FFE-42CE-8832-0F1F49CAB1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E0505E5-7FFE-42CE-8832-0F1F49CAB1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7096F185-8496-462A-98F4-A391B8BF1595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7096F185-8496-462A-98F4-A391B8BF1595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7096F185-8496-462A-98F4-A391B8BF1595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7096F185-8496-462A-98F4-A391B8BF1595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
