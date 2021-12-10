@@ -327,6 +327,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreGenRest", "MoreGenRest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiGenRest", "MultiGenRest\MultiGenRest.csproj", "{03012320-7DDE-44BB-B7FC-2BA9ED704774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetInterfaceRest", "GetInterfaceRest\GetInterfaceRest.csproj", "{31A76FA6-DA9E-46D6-B262-D47DB9A0DA27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -981,6 +983,10 @@ Global
 		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03012320-7DDE-44BB-B7FC-2BA9ED704774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A76FA6-DA9E-46D6-B262-D47DB9A0DA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A76FA6-DA9E-46D6-B262-D47DB9A0DA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A76FA6-DA9E-46D6-B262-D47DB9A0DA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A76FA6-DA9E-46D6-B262-D47DB9A0DA27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
