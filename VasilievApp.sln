@@ -337,6 +337,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreSimpleForm", "MoreSimpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonAndLabel", "ButtonAndLabel\ButtonAndLabel.csproj", "{12E166C3-B32F-407B-83BE-8013C32E3DAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxDemo", "ComboBoxDemo\ComboBoxDemo.csproj", "{48F56C6E-9336-4258-9A30-D5601256277E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1011,6 +1013,10 @@ Global
 		{12E166C3-B32F-407B-83BE-8013C32E3DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E166C3-B32F-407B-83BE-8013C32E3DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E166C3-B32F-407B-83BE-8013C32E3DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F56C6E-9336-4258-9A30-D5601256277E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F56C6E-9336-4258-9A30-D5601256277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F56C6E-9336-4258-9A30-D5601256277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F56C6E-9336-4258-9A30-D5601256277E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
