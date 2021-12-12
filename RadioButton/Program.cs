@@ -1,24 +1,22 @@
 ﻿using System;
 using System.Drawing;
-using  System.Windows.Forms;
+using System.Windows.Forms;
+
 namespace RadioButtonDemo
 {
-    class MyButton:Button
+    class MyButton : Button
     {
         public MyButton(string name) : base()
         {
             Text = name;
-            Click += (x, y) =>
-            {
-                Application.Exit();
-            };
+            Click += (x, y) => { Application.Exit(); };
         }
     }
 
-    class MyForm:Form
+    class MyForm : Form
     {
         private string[] animals = {"Волк", "Лиса", "Медведь", "Енот"};
-        private string[] files = {"wolf.png","fox.png","bear.png","raccoon.png"};
+        private string[] files = {"wolf.png", "fox.png", "bear.png", "raccoon.png"};
         private string path = "C:/Users/Oleksandr/Pictures/csharp/";
         private int index = 0;
         private Label pict;
@@ -42,7 +40,7 @@ namespace RadioButtonDemo
             pict = new Label();
             pict.SetBounds(5, 5, 154, 104);
             pict.BorderStyle = BorderStyle.FixedSingle;
-            pict.Image = Image.FromFile(path+files[index]);
+            pict.Image = Image.FromFile(path + files[index]);
             pnl.Controls.Add(pict);
             radio = new RadioButton[animals.Length];
             GroupBox gb = new GroupBox();
@@ -59,10 +57,11 @@ namespace RadioButtonDemo
                 radio[k].Text = animals[k];
                 radio[k].Text = animals[k];
                 radio[k].Checked = (k == index);
-                radio[k].SetBounds(10,20+k*(h+4),100,h);
+                radio[k].SetBounds(10, 20 + k * (h + 4), 100, h);
                 radio[k].CheckedChanged += OnRadioClick;
                 gb.Controls.Add(radio[k]);
             }
+
             pnl.Controls.Add(gb);
             MyButton btn = new MyButton("OK");
             btn.Height = 30;
@@ -80,14 +79,16 @@ namespace RadioButtonDemo
             {
                 if (radio[k].Checked)
                 {
-                    pict.Image = Image.FromFile(path+files[k]);
-                    return;;
+                    pict.Image = Image.FromFile(path + files[k]);
+                    return;
+                    ;
                 }
             }
         }
     }
-     class Program
-    {   
+
+    class Program
+    {
         [STAThread]
         public static void Main(string[] args)
         {
