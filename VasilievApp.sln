@@ -347,6 +347,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxAndCheckBoxDemo", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenu", "MainMenu\MainMenu.csproj", "{73582844-8956-4E9E-9353-1CE9A2B7F65D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuDemo", "ContextMenuDemo\ContextMenuDemo.csproj", "{DD251701-CCB0-4802-B4F8-1FDDBC82210C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorDemo", "CursorDemo\CursorDemo.csproj", "{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1041,6 +1045,14 @@ Global
 		{73582844-8956-4E9E-9353-1CE9A2B7F65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73582844-8956-4E9E-9353-1CE9A2B7F65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73582844-8956-4E9E-9353-1CE9A2B7F65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD251701-CCB0-4802-B4F8-1FDDBC82210C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD251701-CCB0-4802-B4F8-1FDDBC82210C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD251701-CCB0-4802-B4F8-1FDDBC82210C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD251701-CCB0-4802-B4F8-1FDDBC82210C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
