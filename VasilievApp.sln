@@ -363,6 +363,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFriday", "FindFriday\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreamDemo", "FileStreamDemo\FileStreamDemo.csproj", "{2F3F93B0-7A99-4D25-BE96-828CDC0198C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyToDemo", "CopyToDemo\CopyToDemo.csproj", "{498EA879-5961-43FF-AF09-BEA502AC4598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderWriter", "ReaderWriter\ReaderWriter.csproj", "{123EC3E9-9E81-4070-B8F7-48CD926E118F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1089,6 +1093,14 @@ Global
 		{2F3F93B0-7A99-4D25-BE96-828CDC0198C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F3F93B0-7A99-4D25-BE96-828CDC0198C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F3F93B0-7A99-4D25-BE96-828CDC0198C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498EA879-5961-43FF-AF09-BEA502AC4598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498EA879-5961-43FF-AF09-BEA502AC4598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498EA879-5961-43FF-AF09-BEA502AC4598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498EA879-5961-43FF-AF09-BEA502AC4598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
