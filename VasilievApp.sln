@@ -367,6 +367,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyToDemo", "CopyToDemo\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderWriter", "ReaderWriter\ReaderWriter.csproj", "{123EC3E9-9E81-4070-B8F7-48CD926E118F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryStreamsDemo", "BinaryStreamsDemo\BinaryStreamsDemo.csproj", "{24A82BC7-9BE7-46EE-982A-58105D74D64A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1101,6 +1103,10 @@ Global
 		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{123EC3E9-9E81-4070-B8F7-48CD926E118F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A82BC7-9BE7-46EE-982A-58105D74D64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A82BC7-9BE7-46EE-982A-58105D74D64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A82BC7-9BE7-46EE-982A-58105D74D64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A82BC7-9BE7-46EE-982A-58105D74D64A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
