@@ -351,6 +351,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuDemo", "ContextM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorDemo", "CursorDemo\CursorDemo.csproj", "{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogResult", "DialogResult\DialogResult.csproj", "{EC836173-7729-4121-8E6D-0668E0AF88FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1053,6 +1055,10 @@ Global
 		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2621E4B7-0AD4-47E3-8977-32B5639AC5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC836173-7729-4121-8E6D-0668E0AF88FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC836173-7729-4121-8E6D-0668E0AF88FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC836173-7729-4121-8E6D-0668E0AF88FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC836173-7729-4121-8E6D-0668E0AF88FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
